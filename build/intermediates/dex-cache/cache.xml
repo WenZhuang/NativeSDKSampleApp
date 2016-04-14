@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f15585db3e331abb2bbb80ea38a3754d7f47e5ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\JohnVenn\.gradle\caches\modules-2\files-2.1\org.achartengine\achartengine\1.2.0\8720ddc6523b0b3d33edcb0eccb94656871cd404\achartengine-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8720ddc6523b0b3d33edcb0eccb94656871cd404">
+        <dex dex="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0-5eba4daa35d658dfa1fd9664ebc0f600b2b38abf.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-87f5a75e1de9f212162c85b163eaa9811670bbdf.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\pre-dexed\debug\classes-b525f69ec8bd4ea849ae1ac57aa7687055ea5e01.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\pre-dexed\debug\classes-f054971833916c8aa6c7dcb841d880f9343edadb.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\exploded-aar\wikitude-native-sdk\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bf8605d5e0578939aab4a6b00e8e2ca0d925692">
+        <dex dex="E:\Workspace\NativeSDKSampleApp\wikitude\wikitude\NativeSDKSampleApp\app\build\intermediates\pre-dexed\debug\classes-ea5d0e14d5168a39319acf9a68ac170bbb2097d3.jar" />
+    </item>
+
+</items>
